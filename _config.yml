@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Sagar Khanal"
-  avatar : "/assets/images/Sagar_photo_2.jpg"
+  avatar : "/assets/images/Sagar_photo_2.jpeg"
   bio    : "Civil Engineer and Researcher"
   links:
     - label: "Website"
