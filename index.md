@@ -7,4 +7,6 @@ author_profile: true
 ---
 
 
-Hello there 👋, I am Sagar Khanal. I am a Civil Engineer and Researcher from Kathmandu, Nepal. I completed my Bachelor's degree from [Pulchowk Campus, Nepal](https://pcampus.edu.np/) in 2023 and I will be starting my doctoral studies in Auguest (Fall) 2025. My passion lies in the field of disasters. I enjoy learning and employing diverse methods to understand interactions between disasters and society. While you are here, also check out the [Kathmandu Geo Lab](https://ktmgeolab.org/research.html).
+Hello there 👋, I am Sagar Khanal. I am a Civil Engineer and Researcher from Kathmandu, Nepal. I completed my Bachelor's degree from [Pulchowk Campus, Nepal](https://pcampus.edu.np/) in 2023 and I will be starting my doctoral studies in August (Fall) 2025. 
+
+My passion lies in the field of disasters. I enjoy learning and employing diverse methods to understand interactions between disasters and society. While you are here, also check out the [Kathmandu Geo Lab](https://ktmgeolab.org/research.html).
