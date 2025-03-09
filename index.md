@@ -13,7 +13,7 @@ header:
 
 **Hello there, I am Sagar Khanal.**
 
-I am an incoming PhD student in the [AIDDS Lab](https://disasterdata.engin.umich.edu/) at the University of Michigan (UM) advised by Prof. Sabine Loos. I hold a B.E. in Civil Engineering from Pulchowk Campus (2023). Before Michigan, I conducted my research as part of the [Kathmandu Geo Lab](https://ktmgeolab.org/) (advised by Prof. Henri P. Gavin and Dr. Shana Scogin) and the Departmental Research and Training Unit (advised by Prof. Kshitij C. Shrestha).
+I am an incoming PhD student in the [AIDDS Lab](https://disasterdata.engin.umich.edu/) at the University of Michigan (UM) advised by Prof. Sabine Loos. I hold a B.E. in Civil Engineering from Pulchowk Campus (2023). Before UM, I conducted my research as part of the [Kathmandu Geo Lab](https://ktmgeolab.org/) (advised by Prof. Henri P. Gavin and Dr. Shana Scogin) and the Departmental Research and Training Unit (advised by Prof. Kshitij C. Shrestha).
 
 My PhD research is in the field of disasters, understanding how communities are impacted by disaster events and how they recover after such events. I am passionate about risk analysis, data analytics, and social science methods to achieve a holistic understanding of disaster impact and recovery. Ultimately, I strive to work towards a world where disasters are minor disturbances that pose no significant difficulties in people's lives. 
 
