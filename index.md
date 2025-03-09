@@ -11,6 +11,7 @@ header:
 ---
 
 
-Hello there 👋, I am Sagar Khanal. I am a Civil Engineer and Researcher from Kathmandu, Nepal. I completed my Bachelor's degree from [Pulchowk Campus, Nepal](https://pcampus.edu.np/) in 2023 and I am starting my doctoral studies at the University of Michigan under the guidance of [Prof. Sabine Loos](https://disasterdata.engin.umich.edu/team/sabine-loos) starting August 2025. 
+**Hello there 👋, I am Sagar Khanal**.
+I am a Civil Engineer and Researcher from Kathmandu, Nepal. I completed my Bachelor's degree from [Pulchowk Campus, Nepal](https://pcampus.edu.np/) in 2023 and I am starting my doctoral studies at the University of Michigan under the guidance of [Prof. Sabine Loos](https://disasterdata.engin.umich.edu/team/sabine-loos) starting August 2025. 
 
 My passion lies in the field of disasters. I enjoy learning and employing diverse methods to understand interactions between disasters and society. While you are here, also check out the [Kathmandu Geo Lab](https://ktmgeolab.org/research.html).
