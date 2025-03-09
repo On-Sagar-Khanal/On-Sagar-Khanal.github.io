@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 header: 
  overlay_image: "/assets/images/sagar_cropped.jpg"
- overylay_filter: 0.3
+ overylay_filter: 0.7
  caption: "Trial"
 ---
 
