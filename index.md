@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 header: 
  overlay_image: "/assets/images/Nightsky_at_jajarkot.jpg"
- overylay_filter: 0.7
+ overylay_filter: 0.3
  caption: "Night Sky at Jajarkot, Nepal by Yukesh Chaulagain"
 ---
 
