@@ -11,8 +11,9 @@ header:
 ---
 
 
-**Hello there 👋, I am Sagar Khanal**.
+**Hello there, I am Sagar Khanal.**
 
-I am a Civil Engineer and Researcher from Kathmandu, Nepal. I completed my Bachelor's degree from [Pulchowk Campus, Nepal](https://pcampus.edu.np/) in 2023 and I am starting my doctoral studies at the University of Michigan under the guidance of [Prof. Sabine Loos](https://disasterdata.engin.umich.edu/team/sabine-loos) starting August 2025. 
+I am a PhD candidate in the AIDDS Lab at the University of Michigan (UM) advised by Prof. Sabine Loos. I hold a B.E. in Civil Engineering from Pulchowk Campus (2023). Before Michigan, I conducted my research as part of the Kathmandu Geo Lab (advised by Prof. Henri P. Gavin and Dr. Shana Scogin) and the Departmental Research and Training Unit (advised by Prof. Kshitij C. Shrestha).
 
-My passion lies in the field of disasters. I enjoy learning and employing diverse methods to understand interactions between disasters and society. While you are here, also check out the [Kathmandu Geo Lab](https://ktmgeolab.org/research.html).
+My PhD research is in the field of disasters, understanding how communities are impacted by disaster events and how they recover after such events. I am passionate about risk analysis, data analytics, and social science methods to achieve a holistic understanding of disaster impact and recovery. Ultimately, I strive to work towards a world where disasters are minor disturbances that pose no significant difficulties in people's lives. 
+
