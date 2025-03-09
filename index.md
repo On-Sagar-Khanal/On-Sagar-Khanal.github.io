@@ -4,6 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header: 
+ overlay_image: "/assets/images/sagar_cropped.jpg"
+ overylay_filter: 0.3
+ caption: "Trial"
 ---
 
 
