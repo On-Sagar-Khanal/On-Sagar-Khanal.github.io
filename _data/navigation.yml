@@ -3,6 +3,8 @@ main:
     url: /Research/
   - title: "Contact"
     url: /Contact/
+  - title: "CV"
+    url: /CV/
   # - title: "Tags"
   #   url: /tags/
   # - title: "Contact"
