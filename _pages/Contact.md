@@ -4,7 +4,7 @@ title: Contact
 permalink: /Contact/
 ---
 
-## Form from formspree to get in touch. redirects to purely html page 
+## Form from formspree to get in touch.  
 
 Hi there, Please send you message through here. 
 
@@ -22,7 +22,7 @@ Hi there, Please send you message through here.
   </label>
 
   <button type="submit">Send</button>
-  <p id="form-status" style="display: none; color: green;">Message sent! I'll get back to you soon.</p>
+  <p id="form-status" style="display: none; color: green;">Message sent! I'll get back to you as soon as possible.</p>
 </form>
 
 <script>
@@ -44,10 +44,10 @@ Hi there, Please send you message through here.
         status.style.display = "block";
         form.reset();
       } else {
-        alert("Oops! Something went wrong. Please try again.");
+        alert("Sorry! Something went wrong. Please try again.");
       }
     } catch (error) {
-      alert("Error submitting the form. Please check your internet connection.");
+      alert("Error submitting the form. Can you try again.");
     }
   });
 </script>
