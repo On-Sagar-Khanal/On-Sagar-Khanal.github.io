@@ -14,14 +14,18 @@ Hi there, Please send you message through here.
   <p>
   <label>
     Your Email:
+      <p>
     <input type="email" name="email" required>
+          </p>
   </label>
 </p>
 
 <p>
   <label>
     Your Message:
+      <p>
     <textarea name="message" required></textarea>
+          </p>
   </label>
   </p>
 
