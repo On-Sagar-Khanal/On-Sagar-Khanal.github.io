@@ -3,6 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 permalink: /CV/
+layout: single
+classes: wide
 header: 
  overlay_image: "/assets/images/Nightsky_at_jajarkot.jpg"
  overylay_filter: 0.3
