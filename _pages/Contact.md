@@ -9,18 +9,45 @@ permalink: /Contact/
 Hi there, Please send you message through here. 
 
 <!-- copied from formspree -->
-<form
-  action="https://formspree.io/f/manennlq"
-  method="POST"
->
+
+<form id="contact-form" action="https://formspree.io/f/manennlq" method="POST">
   <label>
-    Your email:
-    <input type="email" name="email">
+    Your Email:
+    <input type="email" name="email" required>
   </label>
+
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    Your Message:
+    <textarea name="message" required></textarea>
   </label>
-  <!-- your other form fields go here -->
+
   <button type="submit">Send</button>
+  <p id="form-status" style="display: none; color: green;">Message sent! I'll get back to you soon.</p>
 </form>
+
+<script>
+  document.getElementById("contact-form").addEventListener("submit", async function(event) {
+    event.preventDefault();
+    
+    let form = event.target;
+    let status = document.getElementById("form-status");
+    let data = new FormData(form);
+
+    try {
+      let response = await fetch(form.action, {
+        method: "POST",
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      });
+
+      if (response.ok) {
+        status.style.display = "block";
+        form.reset();
+      } else {
+        alert("Oops! Something went wrong. Please try again.");
+      }
+    } catch (error) {
+      alert("Error submitting the form. Please check your internet connection.");
+    }
+  });
+</script>
