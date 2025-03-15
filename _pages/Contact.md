@@ -4,9 +4,9 @@ title: Contact
 permalink: /Contact/
 ---
 
-## Form to get in touch  
+## Form from formspree to get in touch. redirects to purely html page 
 
-Fill out the form below, and I'll get back to you as soon as possible.
+Hi there, Please send you message through here. 
 
 <!-- copied from formspree -->
 <form
